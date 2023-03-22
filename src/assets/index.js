@@ -1,0 +1,6 @@
+export * from './icons'
+export * from './kategori'
+export * from './slider'
+export * from './episode'
+export * from './download'
+export * from './images'
